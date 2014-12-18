@@ -1,0 +1,145 @@
+
+#[FIT] <TYTW year="2014">
+
+![](../../meta/assets/01 covers/covers-sean-woodhouse-melbourne.jpg)
+
+---
+
+# January
+
+- Mac's 30th birthday
+- Facebook Paper
+
+![](http://cdn.macrumors.com/article-new/2014/01/macdemo.jpg)
+![](http://fbnewsroomus.files.wordpress.com/2014/02/paper1.jpeg?w=960&h=640)
+
+^ January 24 - 30 Years of the Mac. 
+^ Facebook Releases [Paper App](http://newsroom.fb.com/News/793/Introducing-Paper-Stories-from-Facebook)
+
+
+---
+
+# February
+
+- New Microsoft CEO Satya Nadella 
+- Flappy Bird
+- Facebook buys WhatsApp for 16Billion
+- Apple aquires TestFlight
+
+![](http://cdn.macrumors.com/article-new/2014/02/Satya-Nadella.jpg)
+![](http://cdn.macrumors.com/article-new/2014/02/flappy-bird.jpg)
+
+---
+
+# March
+
+- iOS 7.1 Released 
+- Android Wear Released
+
+
+^CarPlay
+
+![](http://cdn.macrumors.com/article-new/2014/03/carplay_3.jpg)
+
+---
+
+# April
+
+- WWDC Ticket Lotery 
+- HeartBleed
+- Angela Ahrendts to Join Apple
+- 
+![](http://heartbleed.com/heartbleed.png)
+![](http://forums.imore.com/attachments/wallpapers-ringtones/53468d1396642069t-get-your-wwdc-2014-retina-wallpapers-right-here-dribbble.png)
+
+---
+
+# May
+
+- Apple buys Beats for 3.2 Billion
+- OSX 10.9.3 Release
+
+![](http://cdn.macrumors.com/article-new/2014/05/beatsbydre.jpg)
+![](http://cdn.macrumors.com/article-new/2014/05/beatsimage.jpg)
+
+---
+
+# June
+
+- Stock Split @ $92
+- Pebble Steel Launches
+- WWDC (New all the things)
+
+![](http://cnet2.cbsistatic.com/hub/i/r/2014/06/02/bcf2d30c-9d66-42fb-9dd0-63a6f0e9e1e7/resize/770x578/3526cbf152c868325dde218e5387f03a/large-hero-wwdc-2014-apps.jpg)
+![](http://cdn.macrumors.com/article-new/2014/06/pebblesteel.jpg)
+![](http://9to5mac.files.wordpress.com/2014/09/ios8logo.png?w=655&h=368)
+![](http://cdn.osxdaily.com/wp-content/uploads/2014/06/os-x-yosemite-610x351.jpg)
+
+---
+
+# July
+
+- Facebook Messenger App 'Required'
+- App Store's 6th birthday
+- Yahoo buys Flurry
+
+![](http://9to5mac.files.wordpress.com/2014/07/screen-shot-2014-07-10-at-12-32-53-pm.png?w=1328&h=690)
+
+---
+
+# August
+
+- Apple Watch Announced
+- iPhone 6, 6+ Announced
+- Apple Pay Announced
+- U2 Give Away
+
+![](http://images.apple.com/v/watch/a/apple-watch-edition/images/yellow_gold_red_hero_large.jpg)
+![](http://images.apple.com/v/watch/a/technology/images/sensor_large.jpg)
+![](http://tctechcrunch2011.files.wordpress.com/2014/09/img_42081.jpg)
+
+---
+
+# September
+
+![](http://www.vrworld.com/wp-content/uploads/2014/09/iphone6.jpg)
+![](http://www.mod-gadget.com/wp-content/uploads/2014/10/John-Legere-iPhone-6-Plus.jpg)
+![](http://cdn3.vox-cdn.com/entry_photo_images/10186473/DSCF8330_verge_super_wide.jpg)
+
+- iPhone 6
+- iOS 8, 8.0.1, 8.0.2
+- #BendGate
+
+---
+
+# October
+
+- Yosomite Release
+- New iPads
+- Apple Pay
+- Tim Cook come out
+- Retina iMac
+
+![](../2014-11-13/images/ipadmini.png)
+![](../2014-11-13/images/timcook.jpg)
+![](../2014-11-13/images/yosemite.jpg)
+
+---
+
+# November
+
+- WatchKit 
+- ~~TodayView~~
+
+![](http://images.fonearena.com/blog/wp-content/uploads/2014/11/apple-iwatch1.jpg)
+
+---
+
+# December
+
+- DRM Anti-trust Case
+- iTunes goes to sleep
+
+---
+
+#[FIT]</TYTW>
