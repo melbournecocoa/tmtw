@@ -1,0 +1,185 @@
+#[FIT] The Month That Was
+## February 12 - March 12
+
+# [fit] @peterngoldsmith
+
+---
+
+# [fit]App Size <br/>2GB -> 4GB
+
+---
+
+# TestFlight Groups 
+![](images/testflight.png)
+
+---
+
+# Apple Promotes Pay Once
+![](images/payonce.jpg)
+
+---
+
+# 🚙 
+![](images/car.jpg)
+
+---
+
+# Photoshop turns 25 
+![](images/photoshop.png)
+
+---
+
+#[fit] Stripe starts
+#[fit] accepting Bitcoin
+![](images/stripebitcoin.png)
+
+---
+
+# OS X 10.10.3 b2
+# iOS 8.3 b2
+![right fit](images/emoji.jpg)
+
+---
+
+![](images/pebbletime.gif)
+
+---
+
+#[fit] iPhone Accounts for ~90% 
+#[fit] of Smartphone Industry 
+#[fit] Profits in Fourth Quarter
+![right fit](images/iphone90perc.png)
+
+---
+
+#[fit] Maps start 
+#[fit] animating
+<Live Demo>
+
+---
+
+#[fit] 'iWork for iCloud'
+#[fit] for everyone
+![](images/iwork.jpg)
+
+---
+
+#[fit] Broadband Service <br />becomes a Utility
+![right fit](images/fcc.gif)
+
+---
+
+![](images/nimoy.jpg)
+
+
+---
+
+#[fit] Galaxy S6
+#[fit] Galaxy S6 Edge
+![](images/galaxy.jpg)
+
+---
+
+#[fit] OS X 10.10.3 Public Beta
+#[fit] With Photos App
+![](images/photosapp.jpg)
+
+---
+
+#[fit] Apple Surpassed Samsung 
+#[fit] as World's Largest 
+#[fit] Smartphone Maker in Fourth Quarter
+
+---
+
+#[fit] 'FREAK' 
+#[fit] Security Flaw
+#[fit] Factoring Attack on RSA-EXPORT Keys
+
+---
+
+![fit](images/unreal.png)
+![fit](images/unity.png)
+![](images/source.png)
+
+---
+
+# MS Office 2016 for Mac
+
+
+---
+
+# 'HBO Now' for Apple TV and iOS Devices
+![](images/hbo.jpg)
+
+---
+
+#[fit] Apple TV $69
+![](images/appletv.jpg)
+
+---
+
+#[fit] ResearchKit
+![bottom](images/research_kit.jpg)
+
+---
+
+# 12-Inch 'New' MacBook
+![right](images/macbook.jpg)
+
+---
+
+![](images/watch_sideon.jpg)
+
+---
+
+## Apple Watch Battery Life: 18 Hrs Mixed Usage, Up to 72 Hours on Power Reserve
+
+---
+
+# Apple fixes
+#[fit] 'FREAK'
+
+---
+
+## Apple Donates Over $50 Million to Increase Diversity in the Tech Industry
+
+---
+
+#[fit] Things
+#[fit] Melbourne
+#[fit] Shipped
+![](images/ship.png)
+
+---
+
+![right](images/zenpath.png)
+#[fit] Zen Path
+### @spritesun
+First Major release.
+Zen Path, a meditation journal, record your everyday meditation learnings.
+Regularly meditate can benefit both your mental and physical health.
+
+---
+
+#[fit] ResXtreme
+### @chrismiles
+
+New app (1.0) released for free to give people access to extended & HiDPI screen resolution modes that are only available via private API calls.
+For example, on 15"" rMBP it enables 3840x2400, 1080p and 720p modes.
+
+---
+
+![right](images/easyres.png)
+#[fit] EasyRes
+### @chrismiles
+1.1, 1.1.1:
+ • Today widget for Yosemite!
+ • Option to hide resolutions from the list.
+ • If ResXtreme is also running, EasyRes makes all private extended & HiDPI modes available :)
+
+---
+
+#[fit]Chris Miles
+# 🚀
+![](images/chris.jpeg)
