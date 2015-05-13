@@ -1,0 +1,153 @@
+
+# [fit] The month 
+# [fit] that was
+## March 12 - April 9
+![](images/tmtw-presentation.jpg)
+
+---
+
+
+# [fit] iOS Beta Testing Program
+# [fit] iOS 8.3 for Non Developers
+^ March 13
+
+![](images/emoji.jpg)
+
+---
+
+
+# [fit] Nintendo Coming 
+# [fit] to Mobile
+^ March 18
+
+![](images/nintendo.jpg)
+
+---
+
+
+# [fit] Google Manually Reviews App Submissions
+# [fit] Approval Times Still Faster Than App Store
+
+^ March 18
+
+![fit](images/googleplay.png)
+
+---
+
+
+# [fit] New iOS 8.3 Features: 
+# [fit] No Password Required to Download Free Apps
+^ March 24
+
+---
+
+![](images/netflix.png)
+
+^ March 24 Apple TV Owners Gain Access Netflix Australia
+
+---
+
+#[FIT] Facebook
+#[FIT] Hate UIKit
+
+<!-- ![inline](images/componentkit.png) -->
+![](images/react.png)
+
+---
+
+![right fit](images/periscope.jpg)
+
+# [fit] Twitter Launches 
+# [fit] Periscope
+^ March 27
+
+---
+
+# April 1
+![](images/aprilfools.jpg)
+
+---
+
+# [fit] Apple Announce 
+# [fit] Watch Pre-Orders 
+# [fit] Kick Off April 10
+
+^ April 4
+
+![](images/watch_sideon.jpg)
+
+---
+
+#[fit] Another gets hired by Apple
+<br />
+
+![fit](images/peteh.png)
+
+---
+
+#[fit] Xcode 6.3, Swift 1.2
+#[fit] iOS 8.3, OS X 10.10.3 
+
+![](images/yosemite.jpg)
+
+---
+
+![](images/theverge.jpg)
+
+#[fit] Watch Review
+#[fit] Embargo Lifted
+
+
+---
+
+Ben Bajarin:
+> easily lasted a day
+
+Nilay Patel:
+> I hit 10 percent battery at 7pm
+
+Geoffrey Fowler:
+> lives up to its all-day billing, but sometimes just barely
+
+
+---
+
+#[fit] Things
+#[fit] Melbourne
+#[fit] Shipped
+![](../2015-03-12/images/ship.png)
+
+---
+
+![right](images/audiohijack.png)
+
+#[fit] Audio Hijack 3.0.5
+
+Session Templates, Multiple Recorders in One Session, Bulletproof Audio Recording, Denoise, Declick, Dehum, Simplified Audio Effects, Audio Block Presets, 732 other features
+
+## @gsfarr
+
+---
+
+![right](images/worldclock.png)
+
+#[fit] World Clock - Widget 1.0
+
+World Clock Widget is the simplest way to keep track of the time in different cities and time zones. Just add a clock to your list and a see it in the Today view.
+
+## @mokagio
+
+---
+
+![right](images/rea.jpeg)
+
+#[fit] RealEstate.com.au 2.9.0
+
+Users are able to add a note to interesting properties and sync them across realestate.com.au
+
+## @StewGleadow @prasannag @peterngoldsmith @spritesun @xiaodao
+
+---
+
+
+
