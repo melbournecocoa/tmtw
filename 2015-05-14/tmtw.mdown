@@ -1,0 +1,192 @@
+
+# [fit] The Month 
+# [fit] That Was 
+## [fit] April 9 - May 14
+
+![](../images/tmtw-presentation.jpg)
+
+---
+
+# [fit] iOS 8.4 beta 
+# [fit] Revamped Music App
+
+![](../images/tmtw-presentation.jpg)
+
+^ April 14
+
+---
+
+# [fit] ResearchKit hits Github
+## [fit] Accepts pull requests
+
+
+![fit](images/merge.png)
+
+^ April 15
+http://petersteinberger.com/blog/2015/researching-researchkit/
+Adds a podspec for CocoaPods
+
+---
+
+
+
+![](images/wwdc.jpg)
+
+^ April 15
+April 18
+Ask: Who got a ticket? Who is still going to SF
+
+---
+
+# [fit] OS X Reviewed
+
+
+![inline](images/tiny-mac.gif)
+
+^ April 16
+Mac OS X DP2 – December 14, 1999
+
+---
+
+# Developers get chance to buy Apple Watch Sport with guaranteed delivery date
+
+
+![](images/bluewatch.jpg)
+
+^ April 22
+
+---
+
+# It arrives
+
+
+![autoplay loop mute](images/watch.mp4)
+
+^ April 24
+Apple Watch
+Antenna Gate, Bend Gate, and now...
+
+---
+
+# [fit] Gate-Gate
+
+
+![](images/qantas.jpg)
+
+^ April 30
+Qantas Apple Watch Doesn't Fit Under Airline's Boarding Pass Scanners
+
+---
+
+## Some Tattoos Found to Interfere With Apple Watch Sensors
+
+
+![](images/tattoo.jpg)
+
+^ April 30
+Apple confirms is an issue
+
+---
+
+# [fit] iOS 8 Adoption
+# [fit] Reaches 81%
+
+
+![](../images/tmtw-presentation.jpg)
+
+^ April 30
+Same time last year we were at > 90% iOS 7 
+
+---
+
+### - Visual Studio Code
+### - .NET for OS X
+### - Compile Existing Objective C apps for Windows 10
+
+![](images/microsoft.png)
+
+^ April 30
+Project Islandwood, and it allows developers can take their existing applications written in Objective C, have Visual Studio convert the Xcode project into a Visual Studio solution, and compile it for Windows 10
+
+---
+
+# [fit] Applebot
+### the web crawler for Apple
+
+![](../images/tmtw-presentation.jpg)
+
+^ May 7
+as In-House Web Crawler for Services Like Siri and Spotlight
+
+---
+
+# [fit] Xcode
+## 6.4b1, 6.4b2, 6.4b3
+## 6.3.1, 6.3.2GM
+
+
+![](../images/tmtw-presentation.jpg)
+
+^ circleci.com
+
+---
+
+#[fit] Things Melbourne
+<!-- #[fit] Melbourne -->
+#[fit] Shipped
+![](../images/ship.png)
+
+---
+
+# v1.1
+## @outware
+
+![](images/netball.jpg)
+
+![right fit](images/netball_live.png)
+
+^ Watch every game of the ANZ Championship with Netball Live on your compatible iPhone.
+
+---
+
+![autoplay loop mute](images/oztv.mov)
+
+# OzTV
+# v4.0
+## @jtanang
+## @alexjston
+## @gerald_kim
+## @marcedwards
+
+![inline right](images/OzTV.png)
+
+^ FREEEEEEEEEEEEEEEE
+
+---
+
+## Stock Plus - Portfolio
+# v1.0
+## @prasannag
+## @danielwhyte
+
+![](images/stock_watch.png)
+
+^ Made with 100% Swift / Realm / day 1 watch app
+
+---
+
+# [fit] Prime Minister of Singapore 
+## Shares his C++ Sudoku Solver source code
+
+
+![](images/pm_singapore.jpg)
+
+^ May 5
+Lee Hsien Loong
+
+---
+
+![](images/tony.jpg)
+
+^ May 5
+
