@@ -1,3 +1,85 @@
+![](https://d17oy1vhnax1f7.cloudfront.net/items/3H3M293G152w302a1L3D/Playgrounds1.jpg?v=28203df7)
+
+---
+
+![](https://d17oy1vhnax1f7.cloudfront.net/items/1d2a3N0u0v18003H112G/December.jpg?v=6800a0df)
+
+---
+
+## Speakers
+### Australia
+- __Matt Comi__, Big Bucket
+- __Matt Gallagher__, Cocoa with Love
+
+---
+
+## Speakers
+### San Francisco
+- __Rachel Bobbins__, Stitch Fix
+- __Felix Krause__, fastlane & Twitter
+- __Greg Heo__, Instagram
+- __Ayaka Nonaka__, Workflow
+
+---
+
+## Speakers
+### New York City
+- __Soroush Khanlou__, Fatal Error Podcast, Blogger
+- __Ash Furrow__, Artsy
+- __Tamar Nachmany__, Tumblr
+
+---
+
+## Speakers
+### Chicago
+- __Samuel Giddins__, CocoaPods
+
+### Berlin
+- __Chris Eidhof__, objc.io
+
+---
+
+## Speakers
+### Denver
+- __Erica Sadun__, Author
+
+### Vancouver
+- __Dennis Pilarinos__, buddybuild
+
+---
+
+## Speakers
+
+- __Seven__ remaining
+- __2 or 3 weeks__ left with announcements
+- __Podcasts__ with Karl Bowden
+
+---
+
+## Get involved
+
+- Looking for sponsors
+- Looking for volunteers
+- Help spread the word
+- Purchase tickets early 
+
+---
+
+## Get informed
+- @PlaygroundsCon
+- www.PlaygroundsCon.com
+- GitHub.com/PlaygroundsCon
+- Promo released each week
+
+--
+- __Come say Hi__. I have stickers
+
+---
+
+![](https://d17oy1vhnax1f7.cloudfront.net/items/1x2n1t3j2r2J0z2d0834/Header2.png?v=6d1731e7)
+
+---
+
 #The Year That Was 2016
 ##Andyy Hope && Pete Goldsmith
 
@@ -47,6 +129,12 @@ Originally presented by Jesse
 ---
 
 # May
+
+- New Macbook
+- Cocoapods 1.0.0 Released 🎉
+- ANZ + Apple Pay 💳 📱 
+
+![](http://images.apple.com/au/macbook/overview/images/macbook_overview_og.jpg?201609201338)
 
 ^ Originally Presented by Andyy
 
