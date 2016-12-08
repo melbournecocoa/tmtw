@@ -61,7 +61,7 @@
 - Looking for sponsors
 - Looking for volunteers
 - Help spread the word
-- Purchase tickets early 
+- Purchase tickets early
 
 ---
 
@@ -89,7 +89,15 @@
 
 # February
 
-^ Originally presned by Pete 
+- Phil Schiller in charge of AppStore
+- "Total Political Crap"
+- Microsoft buys SwiftKey
+
+![](http://i.imgur.com/I6MNyWF.jpg)
+
+^
+EU rules Apple should pay €13bn in back tax to the Irish government.
+Was really excited about iOS 9 adoption
 
 ---
 
@@ -101,12 +109,12 @@
 - @applesupport twitter
 - CocoaPods-github-agedon
 - :moneybag: :point_right: Tesla Model 3
-- Commit acccess granted to apple/swift 
+- Commit acccess granted to apple/swift
 
 ![](http://images-cdn.moviepilot.com/images/c_limit,h_483,w_618/t_mp_quality/n9m4sminumohk1wgmg3u/apple-vs-fbi-whose-right-and-whose-wrong-867223.jpg)
 
 ^
-Cocoapods links: 
+Cocoapods links:
 	- http://blog.cocoapods.org/Master-Spec-Repo-Rate-Limiting-Post-Mortem
 	- https://github.com/CocoaPods/CocoaPods/issues/4989
 
@@ -124,7 +132,7 @@ Originally presented by Jesse
 ![](http://www.telegraph.co.uk/content/dam/technology/2016/03/24/tay_ai-xlarge_trans++AHFvc2WzbX_v7BQ2hCChD_o-hc_vVKsE7iJJuODhoRU.PNG)
 
 
-^ Originall presented by Ben
+^ Original presented by Ben
 
 ---
 
@@ -132,7 +140,7 @@ Originally presented by Jesse
 
 - New Macbook
 - Cocoapods 1.0.0 Released 🎉
-- ANZ + Apple Pay 💳 📱 
+- ANZ + Apple Pay 💳 📱
 
 ![](http://images.apple.com/au/macbook/overview/images/macbook_overview_og.jpg?201609201338)
 
@@ -151,11 +159,26 @@ Originally presented by Jesse
 
 # July
 
+- WWDC
+- Playgrounds on iPad
+- iOS 10
+- Messages Apps
+- Pokemon GO
+- Microsoft buys LinkedIN
+
+![](http://i.imgur.com/HFykxs7.jpg)
+
 ^ Originally presented by Pete
 
 ---
 
 # August
+
+- People are dumb. Pokemon GO shows how dumb
+- Apple Sold 1 Billion iPhones
+- 'Cleansing' of the App Store
+
+![](http://i.imgur.com/QAPh56L.jpg)
 
 ^ Originally presented by Pete
 
@@ -177,6 +200,10 @@ Originally presented by Jesse
 
 # October
 
+- Samsung
+
+![](http://i.imgur.com/ciqZ1QN.png)
+
 ^ Originally presented by Pete
 
 ---
@@ -184,6 +211,10 @@ Originally presented by Jesse
 # November
 
 ^ Originally presented by Pete
+- Macbooks 💻
+
+
+![](http://images.apple.com/v/macbook-pro/l/images/overview/speakers_before_large.jpg)
 
 ---
 
